@@ -1,0 +1,70 @@
+header
+{
+    font-family: Arial;
+    font-size: large;
+
+}
+
+nav
+{
+    text-align: center;
+    padding: 10px;
+
+}
+
+a
+{
+    padding: 5px;
+}
+
+h1
+{
+    text-align: center;
+    background-color: gray;
+
+}
+
+h3
+{
+    padding: 5px;
+}
+
+p
+{
+    font-family: sans-serif;
+    padding: 15px 0 15px 5px;
+}
+
+.form
+{
+    display: flex;
+}
+
+form
+{
+    float: left;
+    margin: 0 1.5%;
+    width: 63%;
+}
+
+input
+{
+    margin: 0 0 10px 0;
+}
+
+label
+{
+    font-family: Helvetica;
+}
+
+aside
+{
+    float: right;
+    margin: 0 1.5%;
+    width: 30%;
+}
+
+#visitorBox
+{
+    margin: auto;
+}
